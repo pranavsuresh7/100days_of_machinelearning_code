@@ -12,3 +12,5 @@ link of day 3 - https://github.com/pranavsuresh7/100days_of_machinelearning_code
 Made an image classifier which differentiates carrot and cuccumber.Used inceptionv3 model keras for transfer learning.
 Link of repo-https://github.com/pranavsuresh7/carrot-or-cuccumber-inceptionv3
 Studied some basics of YOLO-You Only Look Once algorithm for video processing.Will do more on YOLO comming days.
+# day-5
+Continuation of studying YOLO algorithm.
