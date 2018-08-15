@@ -14,3 +14,5 @@ Link of repo-https://github.com/pranavsuresh7/carrot-or-cuccumber-inceptionv3
 Studied some basics of YOLO-You Only Look Once algorithm for video processing.Will do more on YOLO comming days.
 # day-5
 Continuation of studying YOLO algorithm.
+# day-6 
+Started implementing YOLO algorithm with opencv,will add code repo within few days
