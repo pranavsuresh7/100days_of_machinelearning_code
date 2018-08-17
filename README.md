@@ -16,3 +16,5 @@ Studied some basics of YOLO-You Only Look Once algorithm for video processing.Wi
 Continuation of studying YOLO algorithm.
 # day-6 
 Started implementing YOLO algorithm with opencv,will add code repo within few days
+# day-7 
+Currently I'm using Intel AI cloud for computing,today just setted up google colab and watched some videos about video analysis.
