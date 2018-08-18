@@ -18,3 +18,5 @@ Continuation of studying YOLO algorithm.
 Started implementing YOLO algorithm with opencv,will add code repo within few days
 # day-7 
 Currently I'm using Intel AI cloud for computing,today just setted up google colab and watched some videos about video analysis.
+# day-8
+Not much progress,but I'm trying to create a video analyser with opencv and YOLO.So revised YOLO algorithm from deeplearning.ai.
