@@ -22,3 +22,6 @@ Currently I'm using Intel AI cloud for computing,today just setted up google col
 Not much progress,but I'm trying to create a video analyser with opencv and YOLO.So revised YOLO algorithm from deeplearning.ai.
 # day-9 
 Skipping programming for two days due to some non-technincal issues.
+# day-10 
+Just played with YOLO in command line with the documentation given in official site https://pjreddie.com/darknet/yolo/ .
+Need to do more.
