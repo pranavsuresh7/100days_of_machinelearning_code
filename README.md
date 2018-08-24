@@ -27,3 +27,5 @@ Just played with YOLO in command line with the documentation given in official s
 Need to do more.
 # day-11
 Started building real time object detection,https://github.com/pranavsuresh7/100days_of_machinelearning_code/blob/master/real%20time%20object%20detection/real%20time%20object%20detection.ipynb this is not complete,I have just started it.
+# day-12
+Revised CNN course deeplearning.ai
