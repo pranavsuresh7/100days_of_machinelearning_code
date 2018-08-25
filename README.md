@@ -29,3 +29,5 @@ Need to do more.
 Started building real time object detection,https://github.com/pranavsuresh7/100days_of_machinelearning_code/blob/master/real%20time%20object%20detection/real%20time%20object%20detection.ipynb this is not complete,I have just started it.
 # day-12
 Revised CNN course deeplearning.ai
+# day-13-14[aug 25-26]
+Skipping this days
